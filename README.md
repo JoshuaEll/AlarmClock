@@ -8,3 +8,6 @@ A small python alarm clock. In the short future, I want to add more functionalit
 - time
 - sqlite3
 - threading
+<br>
+
+![index](images/alarmWindow.PNG)<br>
